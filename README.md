@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi there! I'm Mohanad
 
-<!--
-**MohanadSayed7/MohanadSayed7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about **Cybersecurity**, **Hacking**, **Programming**, and **Networking**.  
+Currently, I'm exploring various aspects of ethical hacking and cyber defense. I enjoy learning about new security vulnerabilities and how to protect systems against them.
 
-Here are some ideas to get you started:
+### 🛡️ Interests
+- Cybersecurity & Ethical Hacking
+- Network Security & Management
+- Python Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐍 Skills
+- Python (main programming language)
+- Basic network configuration & troubleshooting
+- Understanding of cyber threats and attack vectors
+
+### 🚀 Always Learning
+I'm continuously expanding my knowledge in cybersecurity and looking to collaborate with like-minded people.  
+Feel free to connect or reach out for discussions about hacking, networks, or programming!
+
+### 🌐 Social Links
+- [Facebook](https://www.facebook.com/mohanad.sayd.700)
+- [Instagram](https://www.instagram.com/moh_anadsayed/)
+
+---
+*Let's secure the digital world together!*
