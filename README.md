@@ -23,3 +23,14 @@ Feel free to connect or reach out for discussions about hacking, networks, or pr
 
 ---
 *Let's secure the digital world together!*
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000?&logo=python&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Kali Linux-000?&logo=kalilinux&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Wireshark-000?&logo=wireshark&logoColor=fff" />
+</p>
+
+
+##  Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohanadSayed7/MohanadSayed7/output/github-contribution-grid-snake.svg" />
+</p>
