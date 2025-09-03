@@ -1,6 +1,5 @@
-<h1 align="center">مرحباً 👋، أنا مهند سيد</h1>
-<h3 align="center">مهتم بالأمن السيبراني | مطور بايثون | استكشاف الشبكات وأدوات الأمان</h3>
-
+<h1 align="center">Hello 👋, I'm Mohanad Sayed</h1>
+<h3 align="center">Interested in cybersecurity | Python developer | Exploring networks and security tools</h3>
 
 💻 **Cybersecurity Enthusiast | Python Developer | Network Explorer**  
 🔐 Passionate about Ethical Hacking, Security Tools, and Digital Defense  
