@@ -4,34 +4,27 @@
 ---
 
 ### 🚀 About Me
-- 🔭 **Current Project:** I am actively developing **Eagle Eye**, a real-time object detection radar system.
-- 🛡️ **Cybersecurity Focus:** Deeply engaged in vulnerability analysis, penetration testing, and bug bounty hunting.
-- 🔬 **Research Interest:** Seeking high-impact academic publications (Q1-Q4 journals) in engineering and tech.
-- 🌐 **Web Design:** I create modern, professional digital portfolios and web solutions.
-- 🇩🇪 **Language Learning:** I am currently a beginner student of the German language.
+*   🔭 **Current Project:** Actively developing **Eagle Eye**, a real-time object detection radar system.
+*   🛡️ **Cybersecurity Focus:** Vulnerability analysis, penetration testing, and bug bounty hunting using tools like **Burp Suite** and **WPScan**.
+*   🔬 **Research:** Focused on high-impact academic publications in engineering.
+*   🇩🇪 **Education:** Beginner student of the German language.
 
 ---
 
 ### 🛠️ Technical Skills
-- **Programming & Web:** Python, C++, JavaScript, Modern Web Design.
-- **Embedded Systems:** Arduino, ESP32, and hardware prototyping.
-- **Cybersecurity Tools:** Kali Linux, Burp Suite, WPScan, CVE Research.
-- **Infrastructure:** Networking (Cisco Academy), Flow management systems.
-
----
-
-### 💻 Tech Stack & Tools
-![My Skills](https://skillicons.dev/icons?i=py,cpp,arduino,linux,js,git,netlify,vscode,cisco)
+*   **Embedded Systems:** Arduino, ESP32, and hardware prototyping.
+*   **Security Tools:** Kali Linux, CVE research, and network security.
+*   **Infrastructure:** Networking (Cisco Networking Academy) and flow management systems.
 
 ---
 
 ### 📊 GitHub Stats
-![Mohanad's Stats](https://github-readme-stats.vercel.app/api?username=MohanadSayed7&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohanadSayed7&layout=compact&theme=tokyonight)
+![Mohanad's Stats](https://github-readme-stats.vercel.app/api?username=MohanadSayed7&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohanadSayed7&layout=compact&theme=dark&hide_border=true)
 
 ---
 
 ### 🔗 Connect with me
-- **LinkedIn:** [mohanad-sayed-it](https://linkedin.com/in/mohanad-sayed-it)
-- **Portfolio:** [mohanadsayed.netlify.app](https://mohanadsayed.netlify.app)
-- **Cisco Badge:** Earned during the Learn-A-Thon (April 2026)
+*   **LinkedIn:** [mohanad-sayed-it](https://linkedin.com/in/mohanad-sayed-it)
+*   **Portfolio:** [mohanadsayed.netlify.app](https://mohanadsayed.netlify.app)
+*   **Achievements:** Cisco Networking Academy Learn-A-Thon (April 2026).
