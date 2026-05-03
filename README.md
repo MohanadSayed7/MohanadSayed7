@@ -32,6 +32,6 @@
 
 
 ### 🔗 Connect with me
-*   **LinkedIn:** [mohanad-sayed-it](https://linkedin.com/in/mohanad-sayed-it)
-*   **Portfolio:** [mohanadsayed.netlify.app](https://mohanadsayed.netlify.app)
+*   **LinkedIn:** [Mohanad-Sayed-IT](https://linkedin.com/in/mohanad-sayed-it)
+*   **Portfolio:** [mohanadsayed7.github.io](https://mohanadsayed7.github.io/Mohanad-Sayed-Portfolio/)
 *   **Certification:** Received digital badge from Cisco Networking Academy (April 2026).
