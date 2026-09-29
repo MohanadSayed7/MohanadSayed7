@@ -1,36 +1,35 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22d3ee&height=180&section=header&text=Mohanad%20Sayed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Mohanad Sayed" />
 
-  <h3>🔐 Cybersecurity Student • Python & Networking Enthusiast</h3>
-  <p>Building security tools, exploring networks, and turning ideas into practical projects.</p>
+# 👋 Hi, I'm Mohanad Sayed
 
-  <p>
-    <a href="https://github.com/MohanadSayed7">
-      <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://www.linkedin.com/in/mohanad-sayed-it/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://mohanadsayed7.github.io/Mohanad-Sayed-Portfolio/">
-      <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-    </a>
-  </p>
+### 🔐 Cybersecurity • Networking • Python • Linux
 
-  <img src="https://komarev.com/ghpvc/?username=MohanadSayed7&label=Profile%20Views&color=22d3ee&style=flat" alt="Profile views" />
+I’m an **IT student** focused on cybersecurity, networking, scripting, and practical security tooling.
+
+<a href="https://github.com/MohanadSayed7">
+  <img src="https://img.shields.io/badge/GitHub-MohanadSayed7-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+<a href="https://mohanadsayed7.github.io/Mohanad-Sayed-Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=google-chrome" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/mohanad-sayed-it/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧭 About Me
 
-- 🎓 IT student focused on **Cybersecurity, Networking, and Python development**.
-- 🔐 Interested in **vulnerability analysis, penetration testing, security research, and defensive security**.
-- 🛠️ I build practical tools that combine automation, Linux, networking, and security workflows.
-- 💻 Comfortable working across **Linux and Windows environments**.
-- 🌐 I also build and maintain modern web portfolio projects.
-- 🚀 Currently improving my skills through hands-on projects, labs, and security research.
+- 🎓 IT student building practical projects across **security, networking, software, and hardware**
+- 🔐 Interested in **vulnerability research, penetration testing, ethical hacking, and defensive security**
+- 🐍 Building tools with **Python** and working with Linux environments
+- 🌐 Exploring **networking, web security, APIs, and system administration**
+- 🤖 Interested in hardware prototyping and projects using **Arduino / embedded platforms**
+- 🛠️ I enjoy turning repetitive technical work into useful tools
 
-> **Security mindset:** learn deeply, test responsibly, document clearly, and only assess systems I am authorized to test.
+> **Security mindset:** learn, test, document, and improve — with authorization and responsible disclosure.
 
 ---
 
@@ -39,60 +38,72 @@
 ### 🛡️ ScarSploit
 **Security Research Workbench for authorized security testing**
 
-A Python desktop application that brings together security-research workflows such as reconnaissance/OSINT organization, payload management, command pipelines, vulnerability findings, CVSS scoring, and report generation.
+A Python desktop workbench that brings security-research workflows into one interface, including reconnaissance/OSINT workflows, findings management, CVSS scoring, report generation, and Linux integration.
 
-**Tech:** `Python` `Linux` `Security Research` `OSINT` `CVSS` `Automation`
+**Built with:** Python • Linux • Security Research • Automation
 
 🔗 [View ScarSploit](https://github.com/MohanadSayed7/ScarSploit)
 
-### 🐧 kaliDriver
+---
+
+### 🐉 kaliDriver
 **Kali Linux hardware, driver, and system maintenance assistant**
 
-A Python utility focused on hardware detection, driver management, and Linux system maintenance workflows.
+A Python-based utility focused on hardware detection, driver handling, and system maintenance workflows on Kali Linux.
 
-**Tech:** `Python` `Kali Linux` `Linux` `Hardware` `System Administration`
+**Built with:** Python • Linux • Hardware Detection • System Administration
 
 🔗 [View kaliDriver](https://github.com/MohanadSayed7/kaliDriver)
 
+---
+
 ### 🌐 Portfolio
-My personal portfolio for projects, skills, and technical work.
+My personal portfolio for projects, technical interests, and online presence.
 
-🔗 [Visit Portfolio](https://mohanadsayed7.github.io/Mohanad-Sayed-Portfolio/)
-
----
-
-## 🧰 Technical Stack
-
-### Programming & Scripting
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,c,cpp,html,css,js" alt="Programming stack" />
-</p>
-
-### Security & Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,kali,docker,git,github" alt="Security and systems stack" />
-</p>
-
-### Databases & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postman,arduino" alt="Databases and tools" />
-</p>
+🔗 [Open Portfolio](https://mohanadsayed7.github.io/Mohanad-Sayed-Portfolio/)
 
 ---
 
-## 📊 GitHub Analytics
+## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohanadSayed7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanadSayed7&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-</div>
+### 💻 Languages & Scripting
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MohanadSayed7&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 🔐 Cybersecurity & Networking
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### 🗄️ Databases & Backend
+
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### 🔧 Hardware & Platforms
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+
+### ☁️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
@@ -101,24 +112,45 @@ My personal portfolio for projects, skills, and technical work.
 ```text
 Cybersecurity       ████████████████████
 Networking          ██████████████████░░
-Python              ███████████████████░
-Linux               ██████████████████░░
-Web Security        ██████████████████░░
-English / German    ███████████░░░░░░░░░
+Python              ██████████████████░░
+Linux               █████████████████░░░
+Web Security        ████████████████░░░░
+Automation          ███████████████░░░░░
 ```
 
 ---
 
-## 📫 Connect With Me
+## 📚 What I'm Learning
 
-<p>
-  <a href="https://www.linkedin.com/in/mohanad-sayed-it/">LinkedIn</a> •
-  <a href="https://mohanadsayed7.github.io/Mohanad-Sayed-Portfolio/">Portfolio</a> •
-  <a href="https://github.com/MohanadSayed7">GitHub</a>
-</p>
+- Security research and vulnerability analysis
+- Web application security
+- Networking and system administration
+- Python automation and security tooling
+- Linux and Kali Linux workflows
+- Better software engineering practices
+
+---
+
+## 📊 GitHub
+
+I keep my projects and experiments here:
+
+**GitHub:** [github.com/MohanadSayed7](https://github.com/MohanadSayed7)
+
+> Projects come first. Skills are documented through code, experimentation, and continuous learning.
+
+---
+
+## 🤝 Let's Connect
+
+<a href="https://www.linkedin.com/in/mohanad-sayed-it/">LinkedIn</a> •
+<a href="https://mohanadsayed7.github.io/Mohanad-Sayed-Portfolio/">Portfolio</a> •
+<a href="https://github.com/MohanadSayed7">GitHub</a>
 
 ---
 
 <div align="center">
-  <i>Build. Break. Learn. Defend.</i>
+
+### ⚡ Build. Break. Learn. Defend.
+
 </div>
